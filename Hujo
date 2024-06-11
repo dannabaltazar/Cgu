@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .caja {
+            width: 50%;
+            height: 200px;
+            border: 1px solid #ccc;
+            display: inline-block;
+            box-sizing: border-box;
+        }
+        .imagen-caja {
+            background-image: url('ruta-de-la-imagen.jpg');
+            background-size: cover;
+            background-position: center;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="caja">
+        <div class="imagen-caja"></div>
+    </div>
+    <div class="caja">Contenido de la otra caja</div>
+</body>
+</html>
+hhhhhh
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .caja {
+            width: 50%;
+            height: 200px;
+            border: 1px solid #ccc;
+            display: inline-block;
+            box-sizing: border-box;
+        }
+        .imagen-caja {
+            background-image: url('ruta-de-la-imagen.jpg');
+            background-size: cover;
+            background-position: center;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="caja">
+        <div class="imagen-caja"></div>
+    </div>
+    <div class="caja">Contenido de la otra caja</div>
+</body>
+</html>
